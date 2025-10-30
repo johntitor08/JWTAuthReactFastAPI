@@ -67,11 +67,3 @@ Axios Documentation
 
 React Router v6
 
----
-
-- Fullstack repo ready for Git
-- Clear backend/frontend instructions
-- JWT login/logout workflow explained
-- Dependencies and environment handling included
-
----
