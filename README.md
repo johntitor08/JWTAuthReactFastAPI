@@ -69,8 +69,6 @@ React Router v6
 
 ---
 
-This version ensures:
-
 - Fullstack repo ready for Git
 - Clear backend/frontend instructions
 - JWT login/logout workflow explained
