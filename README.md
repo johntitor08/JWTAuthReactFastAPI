@@ -41,10 +41,6 @@ npm start → runs development server
 
 npm run build → builds production files
 
-npm test → runs tests
-
-npm run eject → ejects CRA config (one-way operation)
-
 Features
 
 JWT-based authentication
@@ -56,8 +52,6 @@ Protected routes in React
 Auto-refresh page to reflect authentication state
 
 Form autofill compatible
-
-Learn More
 
 FastAPI Documentation
 
